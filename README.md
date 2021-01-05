@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi there! I'm Arnav 👋
+
+## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
+- 🎓 Studying Honours Computer Science with Co-op at the **University of Waterloo**, class of 2025. 
+- 💬 Programming Languages I Know:  Python,  Java,  Javascript, HTML,  CSS, SQL, PHP, DrRacket, LaTeX and C. 
+- ⚡ Fun fact: I am huge Raptors fan 
+- 🛠️ Tools I Use: Photoshop, Visual Studio, Andrio Studio, iMovie and Git
+- 😄 Pronouns: He/Him
+
+## 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
+[<img src="https://img.shields.io/badge/LinkedIn-2867B2?style=flat-square&logo=linkedin&labelColor=2867B2" height="25" />](https://www.linkedin.com/in/arnavgupta70/)
+[<img src="https://img.shields.io/badge/Email-BB001B?style=flat-square&logo=gmail&labelColor=BB001B&logoColor=white" height="25" />](mailto:arnav.zee@gmail.com) 
+[<img src="https://img.shields.io/badge/Resume-E60012?style=flat-square&logo=docusign&labelColor=E60012&logoColor=white" height="25" />]
+[<img src="https://img.shields.io/badge/Instagram-dd2a7b?style=flat-square&logo=instagram&labelColor=dd2a7b&logoColor=white" height="25" />](https://instagram.com/_arnav.gupta)
+[<img src="https://img.shields.io/badge/Facebook-4267B2?style=flat-square&logo=facebook&labelColor=4267B2&logoColor=white" height="25" />](https://www.facebook.com/arnav.gupta.7165/)
 
 <!--
 **arnavgupta70/arnavgupta70** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
