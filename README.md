@@ -4,7 +4,7 @@
 - 🎓 Studying Honours Computer Science with Co-op at the **University of Waterloo**, class of 2025. 
 - 💬 Programming Languages I Know:  Python,  Java,  Javascript, HTML,  CSS, SQL, PHP, DrRacket, LaTeX and C. 
 - 🛠️ Tools I Use: Photoshop, Visual Studio, Andrio Studio, iMovie and Git
-- ⚡ Fun fact: I am huge Raptors fan 
+- ⚡ Fun fact: I enjoy watching Basketball. My favourite team is the Toronto Raptors.  
 - 😄 Pronouns: He/Him
 
 ## 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
