@@ -10,7 +10,7 @@
 ## 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
 [<img src="https://img.shields.io/badge/LinkedIn-2867B2?style=flat-square&logo=linkedin&labelColor=2867B2" height="25" />](https://www.linkedin.com/in/arnavgupta70/)
 [<img src="https://img.shields.io/badge/Email-BB001B?style=flat-square&logo=gmail&labelColor=BB001B&logoColor=white" height="25" />](mailto:arnav.zee@gmail.com) 
-[<img src="https://img.shields.io/badge/Resume-E60012?style=flat-square&logo=docusign&labelColor=E60012&logoColor=white" height="25" />] (https://github.com/arnavgupta70/resume/blob/main/Resume%20-%20Jan%2013.pdf)
+[<img src="https://img.shields.io/badge/Resume-E60012?style=flat-square&logo=docusign&labelColor=E60012&logoColor=white" height="25" />](https://github.com/arnavgupta70/resume/blob/main/Resume%20-%20Jan%2013.pdf)
 [<img src="https://img.shields.io/badge/Instagram-dd2a7b?style=flat-square&logo=instagram&labelColor=dd2a7b&logoColor=white" height="25" />](https://instagram.com/_arnav.gupta)
 [<img src="https://img.shields.io/badge/Facebook-4267B2?style=flat-square&logo=facebook&labelColor=4267B2&logoColor=white" height="25" />](https://www.facebook.com/arnav.gupta.7165/)
 
