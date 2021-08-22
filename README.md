@@ -7,6 +7,11 @@
 - ⚡ Fun fact: I enjoy watching Basketball. My favourite team is the Toronto Raptors.  
 - 😄 Pronouns: He/Him
 
+### GitHub Stats 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=arnavgupta70&show_icons=true&theme=default)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=arnavgupta70&langs_count=8&layout=compact&theme=default)
+
+
 ## 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
 [<img src="https://img.shields.io/badge/LinkedIn-2867B2?style=flat-square&logo=linkedin&labelColor=2867B2" height="25" />](https://www.linkedin.com/in/arnavgupta70/)
 [<img src="https://img.shields.io/badge/Email-BB001B?style=flat-square&logo=gmail&labelColor=BB001B&logoColor=white" height="25" />](mailto:arnav.zee@gmail.com) 
