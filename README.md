@@ -8,8 +8,8 @@
 - 😄 Pronouns: He/Him
 
 ### GitHub Stats 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=arnavgupta70&show_icons=true&theme=default)
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=arnavgupta70&langs_count=8&layout=compact&theme=default)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=arnavgupta70&show_icons=true&theme=radical)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=arnavgupta70&langs_count=8&layout=compact&theme=radical)
 
 
 ## 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
