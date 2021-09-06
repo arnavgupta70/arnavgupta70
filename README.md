@@ -13,10 +13,16 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
 ![Racket](https://img.shields.io/badge/-Racket-000?&logo=Racket)
+![SQLite](https://img.shields.io/badge/-SQLite-000?&logo=SQLite)
 
 ### Technologies
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Django](https://img.shields.io/badge/-Django-000?&logo=Django)
+![JIRA](https://img.shields.io/badge/-Jira-000?&logo=JIRA)
+![Microsoft Office](https://img.shields.io/badge/-Microsoft%20Office-000?&logo=Microsoft)
+![Selenium](https://img.shields.io/badge/-Selenium-000?&logo=Selenium)
+![Jenkins](https://img.shields.io/badge/-Jenkins-000?&logo=Jenkins)
+![Confluence](https://img.shields.io/badge/-Confluence-000?&logo=Confluence)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=bootstrap)
