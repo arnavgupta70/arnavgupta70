@@ -7,6 +7,22 @@
 - ⚡ Fun fact: I enjoy watching Basketball. My favourite team is the Toronto Raptors.  
 - 😄 Pronouns: He/Him
 
+## Languages
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![Java](https://img.shields.io/badge/-Java-000?&logo=Java)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![C](https://img.shields.io/badge/-C-000?&logo=C)
+![Racket](https://img.shields.io/badge/-Racket-000?&logo=Racket)
+
+### Technologies
+![React](https://img.shields.io/badge/-React-000?&logo=React)
+![Django](https://img.shields.io/badge/-Django-000?&logo=Django)
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=bootstrap)
+![jQuery](https://img.shields.io/badge/-jQuery-000?&logo=jQuery)
+![Adobe Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-000?&logo=adobephotoshop)
+
 ### GitHub Stats 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=arnavgupta70&show_icons=true&theme=radical)
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=arnavgupta70&langs_count=8&layout=compact&theme=radical)
