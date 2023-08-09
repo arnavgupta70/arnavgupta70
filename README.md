@@ -29,7 +29,6 @@
 ![Adobe Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-000?&logo=adobephotoshop)
 
 ### GitHub Stats 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=arnavgupta70&show_icons=true&theme=radical)
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=arnavgupta70&langs_count=8&layout=compact&theme=radical)
 
 
